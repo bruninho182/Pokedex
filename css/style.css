@@ -37,14 +37,14 @@ main {
     position: absolute;
     font-weight: 600;
     font-size: 20px;
-    color: #0b23ff;
+    color: #ff0b0b;
     top: 37%;
-    right: 36%;
+    right: 30%;
 
 }
 
 .pokemon__name {
-    color: #ff0000;
+    color: #000000;
     text-transform: capitalize;
     font-size: clamp(8px, 5vw, 20px );
 }
